@@ -1,2 +1,5 @@
 # Ignorar los archivos con extensión .log
 *.log
+
+#Ignoras los archivos de variables
+*.env
