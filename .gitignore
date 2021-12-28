@@ -3,4 +3,4 @@
 
 #Ignoras los archivos de variables
 *.env
-*.env1
+*.env*
